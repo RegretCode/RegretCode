@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RegretColt
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript, sql, c++, c#.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript, sql, c++, c#
+- 🔭 I'm currently studying Computer Science at UFPel
 - 📫 How to reach me cordeiro.ricardocoutinho@gmail.com
 
 <!---
