@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RegretColt
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning java, c, MySql.
+- 🌱 I’m currently learning Java, C, MySql.
 - 🔭 I'm currently studying Computer Science at UFPel
 - 📫 How to reach me cordeiro.ricardocoutinho@gmail.com
 
