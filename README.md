@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RegretColt
+- 👋 Hi, I’m Ricardo Cordeiro
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Java, C, MySql.
 - 🔭 I'm currently studying Computer Science at UFPel
