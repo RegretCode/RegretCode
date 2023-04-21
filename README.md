@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo Coutinho Cordeiro
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Java, C, MySql.
+- 🌱 I’m currently learning Python.
 - 🔭 I'm currently studying Computer Science at UFPel
 - 📫 How to reach me cordeiro.ricardocoutinho@gmail.com
 
