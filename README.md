@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <h3>About Me</h3>
-  Hello! I'm Ricardo Coutinho Cordeiro, a Computer Science student at the Universidade Federal de Pelotas (UFPEL). Currently, I'm engaged in developing my undergraduate thesis, exploring natural language processing for sentiment analysis and detecting sarcasm and irony.
+  Hello! I'm Ricardo Coutinho Cordeiro, Computer Science student at the Universidade Federal de Pelotas (UFPEL). Currently, I'm engaged in developing my undergraduate thesis, exploring natural language processing for sentiment analysis and detecting sarcasm and irony.
 </p>
  
   ![ProfileViews](https://komarev.com/ghpvc/?username=RegretCode)
