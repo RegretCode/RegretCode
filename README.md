@@ -4,6 +4,9 @@
   <h3>About Me</h3>
   Hello! I'm Ricardo Coutinho Cordeiro, a Computer Science student. Currently, I'm engaged in developing my undergraduate thesis, exploring natural language processing for sentiment analysis and detecting sarcasm and irony.
 </p>
+ 
+  ![ProfileViews](https://komarev.com/ghpvc/?username=RegretCode)
+  [![Follow](https://img.shields.io/github/followers/RegretCode?label=Follow&style=social&color=black&logo=github)](https://github.com/RegretCode)
 
 <p align="left">
   <h3>Languages</h3>
