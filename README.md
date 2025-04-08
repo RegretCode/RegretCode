@@ -2,8 +2,15 @@
 
 <p align="left"> 
   <h3>About Me</h3>
-  Hello! I'm Ricardo Coutinho Cordeiro, Computer Science student at the Universidade Federal de Pelotas (UFPEL). Currently, I'm engaged in developing my undergraduate thesis, exploring natural language processing for sentiment analysis and detecting sarcasm and irony.
+  Hello! I'm Ricardo Coutinho Cordeiro, a Computer Science graduate from the Federal University of Pelotas (UFPEL).<br><br>
+  I'm passionate about software engineering, artificial intelligence, and machine learning. I’ve worked on practical, end-to-end projects involving scalable systems, data-driven solutions, and cloud services — including the development of <strong>Guardian</strong>, an AI-powered chatbot designed to support children with autism, integrating computer vision, generative AI, and serverless architecture on AWS.<br><br>
+  Some highlights from my journey:<br><br>
+  • 🎓 <a href="https://github.com/RegretCode/SIDATA"><strong>SIDATA</strong></a> – A research and web platform focused on organizing and analyzing GitHub repositories related to sarcasm and irony detection, with emphasis on the Portuguese language. I cataloged annotated datasets and NLP tools, compared international approaches, and provided structured resources to support researchers and developers working with figurative language detection and sentiment analysis.<br><br> 
+  • 🎮 <a href="https://github.com/RegretCode/Forma-Palavras"><strong>Forma Palavras</strong></a> – An educational word game for children with autism, built using Godot Engine and developed in Brazilian Portuguese. It combines playful interaction with behavioral data collection, supporting analysis through metrics such as accuracy, response time, and letter usage patterns.<br><br>
+  I'm always exploring new technologies and building things that are useful, smart, and impactful. Let’s connect and create something great together! 🚀
 </p>
+
+
  
   ![ProfileViews](https://komarev.com/ghpvc/?username=RegretCode)
   [![Follow](https://img.shields.io/github/followers/RegretCode?label=Follow&style=social&color=black&logo=github)](https://github.com/RegretCode)
